@@ -1,0 +1,1 @@
+# pixinsight-savejpeg
