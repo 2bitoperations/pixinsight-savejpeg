@@ -4,6 +4,8 @@ A PixInsight script (**Script > Utilities > SaveStretchedJPEG**) that saves the 
 JPEG, PNG, or TIFF with its current STF stretch baked in. The output is 8-bit and meant for sharing,
 not for archiving or further processing.
 
+Requires PixInsight 1.9.4 or later (the script runs on the V8 JavaScript engine).
+
 ## Install via PixInsight's update system
 
 1. **Edit > Preferences > Security**: enable **Allow unsigned repositories**. This repository isn't

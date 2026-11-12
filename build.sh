@@ -13,7 +13,7 @@ SCRIPT=$NAME.js
 OUT=repository
 # Compatible PixInsight versions. Keep the upper bound open; a closed bound makes
 # newer PixInsight releases silently ignore the repository.
-PI_VERSIONS="1.8.9:9.9.9"
+PI_VERSIONS="1.9.4:9.9.9"   # needs the V8 script engine (#engine v8)
 
 # Release date = date of the last commit that touched the script, so rebuilding
 # without changes produces an identical package (same filename and sha1).
