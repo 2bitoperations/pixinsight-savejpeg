@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>SaveStretchedJPEG: save the active image as a stretched JPEG/PNG/TIFF using the current STF.</p>
+   </description>
+   <platform os="all" arch="noarch" version="1.9.4:9.9.9">
+      <package fileName="SaveStretchedJPEG-20261111.zip" sha1="07f578bbe5531e07f2f6f58bc7ed34be7c3c4f55" type="script" releaseDate="20261111">
+         <title>SaveStretchedJPEG</title>
+         <description>
+            <p>Adds Script &gt; Utilities &gt; SaveStretchedJPEG. Exports the active image with its current STF stretch baked in, as 8-bit JPEG, PNG, or TIFF.</p>
+         </description>
+      </package>
+   </platform>
+</xri>
